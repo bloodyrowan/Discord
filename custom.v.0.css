@@ -13,19 +13,19 @@
 
 :root {
   /* Background image settings */
-  --background-image: url('https://raw.githubusercontent.com/bloodyrowan/Discord/custom.v.0/Vladilena.Milizé.jpg'); /* Main background image */
+  --background-image: url('https://raw.githubusercontent.com/bloodyrowan/wallpaper/system/wuwa.0.jpg'); /* Main background image */
   --background-image-blur: 0px;
   --background-image-size: cover;
   --background-image-position: center; /* position options: top, right, bottom, left, center */
 
   /* Popout and Modal settings */
-  --popout-modal-image: url('https://raw.githubusercontent.com/bloodyrowan/Discord/custom.v.0/Acheron.2.jpg'); /* Background image for popouts and modals */
+  --popout-modal-image: url('https://raw.githubusercontent.com/bloodyrowan/wallpaper/system/Acheron.2.jpg'); /* Background image for popouts and modals */
   --popout-modal-blur: 2px;
   --popout-modal-size: cover;
   --popout-modal-position: center; /* position options: top, right, bottom, left, center */
 
   /* Home image settings */
-  --home-button-image: url('https://raw.githubusercontent.com/bloodyrowan/Discord/custom.v.0/Texas.jpg'); /* Home button image  */
+  --home-button-image: url('https://raw.githubusercontent.com/bloodyrowan/wallpaper/system/Texas.jpg'); /* Home button image  */
   --home-button-size: cover;
   --home-button-position: center; /* position options: top, right, bottom, left, center */
 
