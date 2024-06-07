@@ -20,7 +20,7 @@
 
   /* Popout and Modal settings */
   --popout-modal-image: url('https://raw.githubusercontent.com/bloodyrowan/Discord/custom.v.3/v.3.1.jpg'); /* Background image for popouts and modals */
-  --popout-modal-blur: 1px;
+  --popout-modal-blur: 4px;
   --popout-modal-size: cover;
   --popout-modal-position: center; /* position options: top, right, bottom, left, center */
 
