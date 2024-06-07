@@ -1,0 +1,56 @@
+/* @name Impulse */
+/* @author bloodyrowan */
+/* @version 2 */
+
+/* main code */
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+
+/* black box tags */
+@import url('https://monstrousdev.github.io/themes/addons/user-tags.css');
+
+/* old windows titlebar - remove this if you wish to use default titlebar */
+@import url('https://gibbu.github.io/BetterDiscord-Themes/addons/windows-titlebar.css');
+
+:root {
+  /* Background image settings */
+  --background-image: url('https://raw.githubusercontent.com/bloodyrowan/Discord/custom.v.2/v.2.0.jpg'); /* Main background image */
+  --background-image-blur: 0px;
+  --background-image-size: cover;
+  --background-image-position: center; /* position options: top, right, bottom, left, center */
+
+  /* Popout and Modal settings */
+  --popout-modal-image: url('https://raw.githubusercontent.com/bloodyrowan/Discord/custom.v.2/v.2.1.jpg'); /* Background image for popouts and modals */
+  --popout-modal-blur: 4px;
+  --popout-modal-size: cover;
+  --popout-modal-position: center; /* position options: top, right, bottom, left, center */
+
+  /* Home image settings */
+  --home-button-image: url('https://raw.githubusercontent.com/bloodyrowan/Discord/custom.v.2/v.2.2.jpg'); /* Home button image  */
+  --home-button-size: cover;
+  --home-button-position: center; /* position options: top, right, bottom, left, center */
+
+  /* Brightness settings */
+  --serverlist-brightness: 0.5; /* brightness for serverlist */
+  --left-brightness: 0.5; /* channels and DM list brightness */
+  --middle-brightness: 0.5; /* chat brightness */
+  --right-brightness: 0; /* members and now playing brightness */
+  --popout-modal-brightness: 0.7; /* brightness for popouts and modals */
+
+  /* Gradient settings */
+  --gradient-primary: 255,12,12;
+  --gradient-secondary: 255,12,2;
+  --gradient-direction: 90deg;
+
+  /* Tint settings */
+  --tint-colour: 255,0,0;
+  --tint-brightness: 0;
+
+  /* Other settings */
+  --window-padding: 0px; /* spacing around the Discord window */
+  --window-roundness: 0px; /* roundness of Discord */
+  --scrollbar-colour: rgba(0,0,0,0.05);
+  --link-colour: 255,0,0;
+
+  --font: 'Whitney';
+  --update-notice-1: none;
+}
