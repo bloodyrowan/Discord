@@ -19,13 +19,13 @@
   --background-image-position: center; /* position options: top, right, bottom, left, center */
 
   /* Popout and Modal settings */
-  --popout-modal-image: url('https://raw.githubusercontent.com/bloodyrowan/wallpaper/system/Acheron.2.jpg'); /* Background image for popouts and modals */
+  --popout-modal-image: url('https://raw.githubusercontent.com/bloodyrowan/wallpaper/system/Lappland.mp4'); /* Background image for popouts and modals */
   --popout-modal-blur: 2px;
   --popout-modal-size: cover;
   --popout-modal-position: center; /* position options: top, right, bottom, left, center */
 
   /* Home image settings */
-  --home-button-image: url('https://raw.githubusercontent.com/bloodyrowan/wallpaper/system/Texas.jpg'); /* Home button image  */
+  --home-button-image: url('https://raw.githubusercontent.com/bloodyrowan/wallpaper/system/Lappland.mp4'); /* Home button image  */
   --home-button-size: cover;
   --home-button-position: center; /* position options: top, right, bottom, left, center */
 
